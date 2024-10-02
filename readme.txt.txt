@@ -1,4 +1,4 @@
 Welcome to MyProject!
 
-Author: Yuvraj Ray
+Author: Yuvraj Kumar Ray
 Twitter: @YuviRay
